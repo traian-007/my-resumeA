@@ -77,10 +77,10 @@ body {
 /* COMMON */
 
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 .desktop-element {
-  display: none !important;
+  display: none;
 }
 .mobile-element {
   display: block;
